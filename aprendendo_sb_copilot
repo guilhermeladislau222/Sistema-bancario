@@ -1,0 +1,11 @@
+Resumo do Desafio - Microsoft Copilot Studio
+Sobre o Desafio
+Este desafio tem como objetivo principal me introduzir ao Microsoft Copilot Studio, permitindo a criação do meu primeiro Copilot personalizado. A experiência foi desenhada para me familiarizar com as ferramentas e funcionalidades desta plataforma inovadora.
+O que Aprendi
+Durante a demonstração prática, pude explorar as diversas capacidades do Microsoft Copilot Studio. Aprendi que é possível criar assistentes virtuais personalizados sem necessidade de conhecimentos profundos em programação. A plataforma oferece uma interface intuitiva que permite desenvolver Copilots para diferentes necessidades empresariais ou pessoais.
+Métodos de Criação
+Exploramos três abordagens diferentes para criar um Copilot:
+
+Baseado em modelo - Utilizando templates pré-configurados que aceleram o desenvolvimento
+Baseado em descrição com IA - Onde a própria IA ajuda a gerar o Copilot a partir de descrições textuais
+Em branco - Começando do zero e construindo todas as funcionalidades manualmente
